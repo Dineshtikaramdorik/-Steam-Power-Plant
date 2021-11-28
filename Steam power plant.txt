@@ -1,0 +1,46 @@
+Project-steam power plant.
+
+In the steam power plant I, electrical energy and steam are produced in order to cover the demands
+ of the total plant for electrical energy, high-pressure steam (steam reforming) and low-pressure steam
+
+principal operation of steam power plant-
+The Rankine cycle is an idealized thermodynamic cycle of heat engine.
+ Under this cycle heat energy is converted into mechanical energy while undergoing phase change.
+
+Woking of steam power plant-
+
+In the steam power plant the pulverised coal is fed into the boiler and it is burnt in the furnace. 
+The water present in the boiler drum changes to high pressure steam. 
+From the boiler the high pressure steam passed to the superheater where it is again heated upto its dryness. 
+This superheated steam strikes the turbine blades with high speed and the turbine starts rotating at high speed.
+ A generator is attached to the rotor of the turbine and as the turbine rotates it also rotates with the speed of the turbine. 
+The generator converts the mechanical energy of the turbine into electrical energy.
+ After striking on the turbine the steam leaves the turbine and enters into the condenser. 
+The steam gets condensed with the help of cold water from the cooling tower. 
+The condensed water with the feed water enters into the economiser. 
+In the economiser the feed water gets heated up before entering into the boiler. 
+This heating of water increases the efficiency of the boiler.
+ The exhaust gases from the furnace pass through the superheater, economiser and air pre-heater. 
+The heat of this exhaust gases is utilised in the heating of steam in the superheater, feed water in the economiser and air in the air pre-heater. 
+After burning of the coal into the furnace, it is transported to ash handling plant and finally to the ash storage.
+
+The efficiancy of steam power plant-
+The power plant that operates on coal constitutes almost 41% of the world’s electricity generation.
+It is the modified Rankine thermodynamic cycle on which the coal-fired power plant operates.
+The overall efficiency of the coal power plant ranges from 32% to 42%. And this is calculated by the superheat pressures and superheat and reheat temperatures of steam.
+Most of the large power plants that operates at steam pressures of 170 bar,570 ? superheat and  570 ? reheat steam temperatures can achieve the efficiency ranges from 35% to 38%.
+The efficiency of the super critical power plants operating at 220 bar steam pressure, 600/600 ? superheat/reheat temperatures can achieve is 42%.
+The efficiency in the range of 45 to 48% can be achieved by the ultra-super critical power plants operating at 300 bar pressure, 600/600 ? superheat/reheat steam temperatures.
+
+Advantages of steam power plant-
+As compared with the power generating plant, it has a low initial cost and hence economical.
+Less land area is required as compared with the hydro power plant.
+Coal is used as fuel and the cost of coal is cheaper than petrol and diesel fuel. So the power generation cost is economical.
+This power plant has easy maintenance cost.
+Steam power plant can be installed in any area where water sources and transportation facility are easily available.
+
+Disadvantages of Steam power plant-
+High Running Cost: The running cost of the steam power plant is comparatively high because of fuel, maintenance, etc
+Low Efficiency: If we talk about the overall efficiency of the steam power plant then it is about 35 % to 41% which is low.
+Global Warming: Due to the release of burnt gases of coal or fuel, it contributes to global warming to a larger extent.
+Adverse Effect on the aquatic living organism: The heated water that is thrown in the rivers, ponds etc puts and adverse effect on the living organism and disturbs the ecology.
